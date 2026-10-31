@@ -54,13 +54,12 @@ The pipeline follows the **Medallion Architecture** pattern to guarantee data fr
               +-------------------------------------------------+
   | Layer | Type | Description |
 | :--- | :--- | :--- |
-| **Bronze** | Raw Ingestion | Stores raw source data standardly as-is from CRM & ERP CSV inputs into SQL Server.
-<img width="1293" height="203" alt="image" src="https://github.com/user-attachments/assets/33ee1989-ddd6-4f6a-9e73-0d489cb0d3b7" />
-|
+| **Bronze** | Raw Ingestion | Stores raw source data standardly as-is from CRM & ERP CSV inputs into SQL Server.|
 | **Silver** | Cleaned & Transformed | Applies data cleansing, data type enforcement, standardization, and deduplication. |
 | **Gold** | Analytics Ready | Houses final Star Schema dimensional models (Facts & Dimensions) optimized for reporting. |
 
 ---
+<img width="1293" height="203" alt="image" src="https://github.com/user-attachments/assets/f87f490c-d49a-4793-ba9b-d02f3e0e4485" />
 
 ## 🚀 Project Requirements
 
