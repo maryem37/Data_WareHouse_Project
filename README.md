@@ -23,7 +23,8 @@ This project covers the full lifecycle of modern data warehousing and business i
 ## 🏗️ Data Architecture
 
 The pipeline follows the **Medallion Architecture** pattern to guarantee data freshness, lineage, and high data quality:
-+-------------------------------------------------+
+
+              +-------------------------------------------------+
               |                   SOURCE DATA                   |
               |          ERP System & CRM System (CSV)          |
               +------------------------+------------------------+
