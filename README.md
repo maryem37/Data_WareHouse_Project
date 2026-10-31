@@ -23,6 +23,8 @@ This project covers the full lifecycle of modern data warehousing and business i
 ## 🏗️ Data Architecture
 
 The pipeline follows the **Medallion Architecture** pattern to guarantee data freshness, lineage, and high data quality:
+<img width="1408" height="768" alt="Gemini_Generated_Image_72j1u572j1u572j1" src="https://github.com/user-attachments/assets/f6f1f1ec-3d09-4a9a-88c2-2bf1398bb2ec" />
+
 
               +-------------------------------------------------+
               |                   SOURCE DATA                   |
