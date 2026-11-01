@@ -62,6 +62,7 @@ The pipeline follows the **Medallion Architecture** pattern to guarantee data fr
 
 ---
 <img width="1293" height="203" alt="image" src="https://github.com/user-attachments/assets/f87f490c-d49a-4793-ba9b-d02f3e0e4485" />
+<img width="1287" height="332" alt="image" src="https://github.com/user-attachments/assets/83fa122c-2dcb-45bb-83ef-1053d135785e" />
 
 ## 🚀 Project Requirements
 
